@@ -1,0 +1,7 @@
+4 boda vec imam na, helper metode repozitorij pattern--uredjeno na nivou app
+2-way autentifikacija
+exception handling
+microsoft idnettity autentifikacija
+background procesi
+identity server 4
+primjena naprednog jquerya
